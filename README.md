@@ -3,11 +3,11 @@
 
 <div align="center">
 
-![GitHub Release](https://img.shields.io/github/v/release/Jin-sjh/Zotero-Unleashed?style=flat-square&color=blueviolet)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Jin-sjh/Zotero-Unleashed/total?style=flat-square&color=success)
-![GitHub Repo stars](https://img.shields.io/github/stars/Jin-sjh/Zotero-Unleashed?style=flat-square&logo=github)
-![GitHub issues](https://img.shields.io/github/issues/Jin-sjh/Zotero-Unleashed?style=flat-square&color=orange)
-![GitHub license](https://img.shields.io/github/license/Jin-sjh/Zotero-Unleashed?style=flat-square)
+![GitHub Release](https://img.shields.io/github/v/release/SinanHammer/zotero-unleashed?style=flat-square&color=blueviolet)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SinanHammer/zotero-unleashed/total?style=flat-square&color=success)
+![GitHub Repo stars](https://img.shields.io/github/stars/SinanHammer/zotero-unleashed?style=flat-square&logo=github)
+![GitHub issues](https://img.shields.io/github/issues/SinanHammer/zotero-unleashed?style=flat-square&color=orange)
+![GitHub license](https://img.shields.io/github/license/SinanHammer/zotero-unleashed?style=flat-square)
 
 </div>
 
@@ -218,7 +218,7 @@ Zotero-Unleashed/
 
 **Made with ❤️ for researchers and knowledge workers**
 
-[⭐ Star this repo](https://github.com/Jin-sjh/Zotero-Unleashed) | [🐛 Report Bug](https://github.com/Jin-sjh/Zotero-Unleashed/issues) | [💡 Request Feature](https://github.com/Jin-sjh/Zotero-Unleashed/issues)
+[⭐ Star this repo](https://github.com/SinanHammer/zotero-unleashed) | [🐛 Report Bug](https://github.com/SinanHammer/zotero-unleashed/issues) | [💡 Request Feature](https://github.com/SinanHammer/zotero-unleashed/issues)
 
 </div>
 
